@@ -1,6 +1,10 @@
 # Heal
 
+FIGMA LINK:
+https://www.figma.com/proto/xy54HURy9tJvKxlshBbRLG/Untitled?page-id=0%3A1&node-id=55%3A692&viewport=-212%2C316%2C0.38&scaling=scale-down&starting-point-node-id=55%3A692
 
+GITHUB LINK:
+https://github.com/himpar21/Heal
 
 Cognition Hackathon
 Team Ace
